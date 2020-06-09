@@ -4,7 +4,7 @@ The data describe the change in flux (light intensity) of several thousand stars
 
 As you can imagine, planets themselves do not emit light, but the stars that they orbit do. If said star is watched over several months or years, there may be a regular 'dimming' of the flux (the light intensity). This is evidence that there may be an orbiting body around the star; such a star could be considered to be a 'candidate' system. Further study of our candidate system, for example by a satellite that captures light at a different wavelength, could solidify the belief that the candidate can in fact be 'confirmed'.
 
-https://cdn.spacetelescope.org/archives/images/thumb700x/heic1713a.jpg
+![alt text](https://github.com/mofahad/ExoPlanet_Deep-Learning/blob/master/heic1603b.jpg?raw=true)
 
 
 
